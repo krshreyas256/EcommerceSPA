@@ -1,5 +1,32 @@
 # EcommerceSPA
 
+This project is a **Single Page Application (SPA) for an e-commerce website**, built as part of the **Web Development Internship assignment** for **Astrape.AI**.
+
+It includes:
+- Authentication with JWT (Signup/Login)
+- CRUD APIs for items with filtering (price, category, search)
+- Add to Cart functionality
+- React frontend (SPA) with signup, login, item listing, filters, and cart
+
+---
+
+## Tech Stack
+- **Backend:** Node.js, Express, SQLite
+- **Frontend:** React + Vite
+- **Auth:** JSON Web Tokens (JWT)
+
+---
+
+## Features
+- User signup & login
+- Item management (CRUD) with filters
+- Cart management (add, update, delete)
+- SPA experience with React
+
+---
+
+# EcommerceSPA
+
 Simple full-stack demo with:
 - Backend: Node.js + Express + SQLite (`backend/`, port 4000)
 - Frontend: React + Vite (`frontend/`, port 5173)
